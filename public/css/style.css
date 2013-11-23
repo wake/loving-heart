@@ -331,7 +331,7 @@ nav#nav{
 	border-radius: 7px;
 }
 .stunningtext h2 span{
-	color:#1abc9c;
+	color:#EF4334;
 }
 .slider-wrap input.search {
   font-size: 30px;
@@ -430,7 +430,7 @@ section#portfolio{
 	width:100%;
 	height:auto;
 	float:left;
-	background:#1abc9c;
+	background:#EF4334;
 }
 section#portfolio h1.standart-title{
 	color:#fff;
@@ -484,7 +484,7 @@ section#portfolio h1.standart-title{
 
 }
 .maskImage a span.link{
-	background:#1abc9c;
+	background:#EF4334;
 	width:48px;
 	height:28px;
 	padding:10px 0;
@@ -498,7 +498,7 @@ section#portfolio h1.standart-title{
 		    border-radius: 4px;
 }
 .maskImage a span.zoom{
-	background:#1abc9c;
+	background:#EF4334;
 	width:48px;
 	height:28px;
 	padding:10px 0;
@@ -557,7 +557,7 @@ section#team span.border-circle:after{
 .wrap-team span{
 	text-align:center;
 	font-size:14px;
-	color:#1abc9c;
+	color:#EF4334;
 }
 /********** SOCIAL LIST **********/
 .social-list{
@@ -655,7 +655,7 @@ li.blog-post-wrap:nth-last-child(1){
 	color:#34495e;
 }
 p.short-text{
-	color:#1abc9c;
+	color:#EF4334;
 }
 .post-text span{
 	text-align:center;
@@ -690,14 +690,14 @@ ul.post-meta li a{
 	color:#cacfd2;
 }
 ul.post-meta li a:hover{
-	color:#1abc9c;
+	color:#EF4334;
 }
 ul.post-meta li i{
 	font-size:16px;
 	color:#cacfd2;
 }
 ul.post-meta li a:hover i{
-	color:#1abc9c;
+	color:#EF4334;
 }
 /**********  COOLCAROUSEL  **********/
 ul#foo2{
@@ -860,7 +860,7 @@ p.copyright{
 	        box-sizing: border-box;         /* Opera/IE 8+ */
 }
 .social-list-1 li a:hover{
-	background:#1abc9c;
+	background:#EF4334;
 }
 .social-list-1 li a:hover i{
 	color:#fff;
@@ -970,7 +970,7 @@ section#contact > div > div > div{
 	margin-bottom:25px;
 }
 .blog-title a{
-	color:#1abc9c;
+	color:#EF4334;
 }
 .blog-title a:hover{
 	color:#34495e;
@@ -1003,14 +1003,14 @@ ul.blog-post-meta li a{
 	display:block;
 }
 ul.blog-post-meta li a:hover{
-	color:#1abc9c;
+	color:#EF4334;
 }
 ul.blog-post-meta li i{
 	font-size:16px;
 	color:#5B5B5B;
 }
 ul.blog-post-meta li a:hover i{
-	color:#1abc9c;
+	color:#EF4334;
 }
 .post-text-long{
     float: left;
@@ -1031,15 +1031,15 @@ ul.blog-post-meta li a:hover i{
 	        transition: background-color .3s ease, border .3s ease, color .3s ease, opacity .3s ease-in-out;
 }
 .my-btn:hover{
-	color:#1abc9c;
-	border:1px solid #1abc9c;
+	color:#EF4334;
+	border:1px solid #EF4334;
 }
 .my-btn i{
 	font-size:12px;
 	color:#34495e;
 }
 .my-btn:hover i{
-	color:#1abc9c;
+	color:#EF4334;
 }
 
 /*------------------------------------------------------------------*/ 
@@ -1055,13 +1055,13 @@ h1.new-style-one{
 	font-weight: normal;
 	font-family: 'Open Sans', Arial, sans-serif;
 	font-size: 20px;
-	color:#1abc9c;
+	color:#EF4334;
 	padding-bottom: 5px;
 	position: relative;
 	margin-bottom: 16px;
 }
 h1.new-style-one span {
-	border-bottom: 1px solid #1abc9c;
+	border-bottom: 1px solid #EF4334;
 	width: 60px;
 	position: absolute;
 	left: 0;
@@ -1108,7 +1108,7 @@ h1.new-style-two{
 	color:#5B5B5B;
 }
 .sidebar-categories li h1 a:hover{
-	color:#1abc9c;
+	color:#EF4334;
 }
 /**********  POST  **********/
 .post-mini{
@@ -1133,7 +1133,7 @@ h1.new-style-two{
 	display:block;
 }
 .post-mini a.tabs-link:hover{
-	color:#1abc9c;
+	color:#EF4334;
 }
 .post-mini span{
 	color: #5B5B5B;
@@ -1184,7 +1184,7 @@ h1.new-style-two{
 	display:block;
 }
 .ui-tabs-active a{
-	background:#1abc9c;
+	background:#EF4334;
 	color:#fff;
 }
 .ui-tabs-nav li.ui-tabs-active{
@@ -1231,7 +1231,7 @@ h1.new-style-two{
 			box-sizing: border-box;
 }
 .tags a:hover{
-	background:#1abc9c;
+	background:#EF4334;
 	color:#fff;
 }
 
@@ -1401,7 +1401,7 @@ a.comment-reply-link{
 	transition:background-color 0.4s ease-in;
 }
 a.comment-reply-link:hover{
-	background:#1abc9c;
+	background:#EF4334;
 	text-decoration:none;
 }
 .comment-text{
