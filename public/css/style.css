@@ -54,7 +54,7 @@ body{
 	height:auto;
 	width:100%;
 	float:left;
-	background:#232323;
+	background:#474242;
 	font-family: 'Montserrat', Arial, sans-serif; 
 	font-weight: 400;
 	-webkit-box-shadow: 0 2px 1px rgba(11, 55, 46, 0.5);
@@ -69,11 +69,12 @@ body{
 .logo{
 	float:left;
 	width:200px;
-	margin-top:15px;
+	margin-top:7px;
+	margin-bottom:8px;
 }
 .logo a img{
 	float:left;
-	margin-right:10px;
+	margin-right:25px;
 }
 .logo a h1{
 	font-size:25px;
@@ -114,7 +115,7 @@ nav#nav{
 	font-weight: 400;
 }
 #nav .sf-menu > li > a{
-	padding:10px 15px;
+	padding:14px 15px 10px 15px;
 	font-size:14px;
 	font-family: 'Montserrat', Arial, sans-serif; 
 	font-weight: 400;
@@ -388,7 +389,7 @@ section#origin span.border-circle:after{
 	background:#34495e;
 }
 span.border-circle{
-	border-bottom:2px solid #fff;
+	border-bottom:2px solid #994845;
 	width:100px;
 	display:inline-table;
 	margin-bottom:60px;
@@ -400,7 +401,7 @@ span.border-circle:after{
 	border-radius:10px;
 	width:10px;
 	height:10px;
-	background:#fff;
+	background:#994845;
 	position:absolute;
 	margin:-4px 0 0 0;
 	right:45%;
@@ -609,10 +610,10 @@ section#news{
 	width:100%;
 	height:auto;
 	float:left;
-	background:#1abc9c;
+	background:#FEF1E9;
 }
 section#news h1.standart-title{
-	color:#fff;
+	color:#994845;
 }
 .caroufredsel_wrapper{
 	min-height:560px;
@@ -1547,7 +1548,7 @@ ul.children li{
 
 .btn:hover		{	background:#34495e;	color:#fff;	}
 .btn-blue		{	background:#0087d5;	}
-.btn-green  	{	background:#1abc9c; }
+.btn-green  	{	background:#EF4334; }
 .btn-green2  	{	background:#58d68d; }
 .btn-yellow  	{	background:#f1c40f; }
 .btn-dark-blue  {	background:#34495e  }
