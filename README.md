@@ -1,2 +1,2 @@
-daily-kind
-==========
+Loving Heart Project
+====================
